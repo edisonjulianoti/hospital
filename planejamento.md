@@ -38,51 +38,31 @@
   - Localização
 - Política de Privacidade
 
-# Campos Personalizados para Post Types
+# Campos Persalizados
+- Post Types:
+    - Equipe Médica (Post Type)
+        - Nome (Texto)
+        - Especialidade (Relacionamento com a taxonomia "Especialidades Médicas")
+        - Foto (Imagem)
+        - Currículo (Editor de Texto)
+        - Contato (Texto)
+        - Horário de Atendimento (Texto)
+        - Procedimentos (Editor de Texto)
+    - Serviços (Post Type)
+        - Nome do Serviço (Texto)
+        - Descrição (Editor de Texto)
+        - Lista de Médicos Relacionados ao Serviço (Relacionamento com o post - type "Equipe Médica")
+    - Notícias e Blog (Post Type)
+        - Título (Texto)
+        - Conteúdo (Editor de Texto)
+        - Data de Publicação (Data)
+        - Autor (Texto)
+        - Categorias de Notícias (Relacionamento com a taxonomia "Categorias de Notícias")
 
-## Equipe Médica
-- Nome
-- Especialidade
-- Foto
-- Currículo
-- Contato
-- Horário de Atendimento
-- Procedimentos
+- Taxonomias:
+    - Especialidades Médicas (Taxonomia)
+    - Categorias de Notícias (Taxonomia)
 
-## Especialidades
-- Nome
-- Descrição
-- Lista de Médicos Especialistas
-
-## Serviços
-- Nome do Serviço
-- Descrição
-- Lista de Médicos Relacionados ao Serviço
-- Informações de Agendamento
-
-## Notícias e Blog
-- Título
-- Conteúdo
-- Data de Publicação
-- Autor
-
-## Agendamento
-- Nome Completo
-- Data de Nascimento
-- Telefone de Contato
-- Email
-- Especialidade
-- Médico Preferido
-- Data e Hora de Preferência
-- Observações Adicionais
-
-## Contato
-- Telefone
-- Email
-- Nome Completo (Formulário de Contato)
-- Mensagem (Formulário de Contato)
-- Endereço (Localização)
-- Mapa (Localização)
 
 
 # Conteudo relevante
