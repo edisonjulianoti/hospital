@@ -13,8 +13,77 @@
 # Tema
 - Arquivos\dentalkit-dentist-medical-service-elementor-te.zip
 
-# Instalacao Wordpres
-- http://26.2.79.156:5300/
+# Wordpres
+- Endereço Local
+    - http://26.2.79.156:5300/
+
+# Paginas
+- Início
+- Sobre o Hospital
+  - História
+  - Missão e Valores
+  - Equipe Médica
+- Serviços
+  - Consultas Médicas
+  - Atendimento de Emergência
+  - Exames
+  - Cirurgias
+  - Especialidades
+- Notícias e Blog
+- Agendamento
+- Contato
+  - Telefone
+  - Email
+  - Formulário de Contato
+  - Localização
+- Política de Privacidade
+
+# Campos Personalizados para Post Types
+
+## Equipe Médica
+- Nome
+- Especialidade
+- Foto
+- Currículo
+- Contato
+- Horário de Atendimento
+- Procedimentos
+
+## Especialidades
+- Nome
+- Descrição
+- Lista de Médicos Especialistas
+
+## Serviços
+- Nome do Serviço
+- Descrição
+- Lista de Médicos Relacionados ao Serviço
+- Informações de Agendamento
+
+## Notícias e Blog
+- Título
+- Conteúdo
+- Data de Publicação
+- Autor
+
+## Agendamento
+- Nome Completo
+- Data de Nascimento
+- Telefone de Contato
+- Email
+- Especialidade
+- Médico Preferido
+- Data e Hora de Preferência
+- Observações Adicionais
+
+## Contato
+- Telefone
+- Email
+- Nome Completo (Formulário de Contato)
+- Mensagem (Formulário de Contato)
+- Endereço (Localização)
+- Mapa (Localização)
+
 
 # Conteudo relevante
 - Conteudo
